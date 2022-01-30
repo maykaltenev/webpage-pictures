@@ -4,4 +4,4 @@
 
 <img width="800px" src="./images/photo-gallery.jpg " />][mountains]
 
-[mountains] https://maykaltenev.github.io/webpage-pictures/
+[mountains]: https://maykaltenev.github.io/webpage-pictures/
