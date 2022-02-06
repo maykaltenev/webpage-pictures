@@ -2,8 +2,6 @@
 
 [Test this app yourself](maykaltenev.github.io/webpage-pictures/)
 
----
-
 ![Screenshot from Project](./images/picture-gallery-1.png)
 
 ### About Project
